@@ -1,0 +1,1 @@
+./gradlew dependencies --configuration runtimeClasspath > file.txt -> Get the list of dependecies of your project, usefull to work with FOSSA 
